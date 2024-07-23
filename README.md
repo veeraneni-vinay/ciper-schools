@@ -1,2 +1,2 @@
-# ciper-schools
-dsa c++ course assignment
+# ciper-schools lecture 1
+
